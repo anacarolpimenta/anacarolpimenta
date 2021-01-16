@@ -2,7 +2,7 @@
 #### 来てくれてよかった！<img src="https://media.giphy.com/media/fx2r3vaQmTFZlyoR2z/giphy.gif" width="80">
 
 <br />
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/YlTdOo06ACyici7YJ5/giphy.gif" width="230">
 
 
 :octocat: Este é o GitHub da Ana Pimenta.
@@ -17,12 +17,14 @@ através da Tecnologia e dos Dados, contribuir para um mundo melhor! :earth_amer
 
 
 - 🔭 Atualmente trabalho com **Power BI** e **SQL**
-- 🌱 Estou estudando **Python** e outras ferramentas de **Ciência de Dados**
+- 🌱 Estou estudando **Python** (*Pandas*, *Numpy*, *Matplotlib*, *Scikit-Learn*), **Machine Leaning** (Algoritmos de *Classificação* e *Regressão*), e outras ferramentas de **Ciência de Dados**
 - :four_leaf_clover: Morei na **Irlanda** por 8 meses e puxa, como eu sinto saudades!
 - :airplane: Um lugar que sonho em conhecer: **O Japão**
 - :crossed_flags: Uma língua que quero aprender: **Japonês**
+- Uma Língua que estou aprendendo: **Alemão**
 
-
+Python (Pandas, Numpy, Matplotlib, Sckit-Learn)
+Machine Learning (Algoritmos de classificação e regressão)
 *****
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  This is Ana's Github!
@@ -37,7 +39,7 @@ and to use data and technology to contribute a better world!
 
 
 - Currently working with **Power BI** and **SQL**;
-- I know **Python** (*Pandas*) and **Machine Learning** (*Classification*)
+- I know **Python** (*Pandas*, *Numpy*, *Matplotlib*, *Seaborn*, *Scikit-learn*) and **Machine Learning** (*Classification* and *regression*)
 - Lived in **Ireland** for 8 months and, wow, how I miss that place!
 - A place I want to visit? **Japan**!
 - A language I'm currently learning: **German** (and a little of *Japanese*)
