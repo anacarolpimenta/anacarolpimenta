@@ -1,5 +1,5 @@
 ### I'm Glad You're Here 
-#### 来てくれてよかった！<img src="https://media.giphy.com/media/iHmzGAgGlc9d6/giphy.gif" width="80">
+#### 来てくれてよかった！<img src="https://media.giphy.com/media/fx2r3vaQmTFZlyoR2z/giphy.gif" width="80">
 
 <br />
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
