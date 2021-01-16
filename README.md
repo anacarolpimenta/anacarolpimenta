@@ -23,8 +23,6 @@ através da Tecnologia e dos Dados, contribuir para um mundo melhor! :earth_amer
 - :crossed_flags: Uma língua que quero aprender: **Japonês**
 - Uma Língua que estou aprendendo: **Alemão**
 
-Python (Pandas, Numpy, Matplotlib, Sckit-Learn)
-Machine Learning (Algoritmos de classificação e regressão)
 *****
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  This is Ana's Github!
