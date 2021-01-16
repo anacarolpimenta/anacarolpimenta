@@ -63,7 +63,8 @@ and to use data and technology to contribute a better world!
 
 
 ![](https://img.shields.io/badge/Arigatou-%E3%81%82%E3%82%8A%E3%81%8C%E3%81%A8%E3%81%86-blueviolet?style=flat-square)
-
+![](https://img.shields.io/badge/Danke-%E3%81%82%E3%82%8A%E3%81%8C%E3%81%A8%E3%81%86-red?style=flat-square)
+![](https://img.shields.io/badge/Thank you-%E3%81%82%E3%82%8A%E3%81%8C%E3%81%A8%E3%81%86-yellow?style=flat-square)
 
 
 
