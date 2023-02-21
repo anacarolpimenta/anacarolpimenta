@@ -9,12 +9,10 @@
 <br />
 :mortar_board: Formada em Psicologia e recentemente em Gestão de TI.
 <br />
-Atualmente trabalho com Melhoria de Processos de TI,
+Atualmente trabalho como Analista de Business Intelligence,
 <br />
-mas meu sonho é me tornar uma grande Cientista de Dados, e assim,
+Meu sonho é usar a Tecnologia e os Dados para contribuir para um mundo melhor! :earth_americas: :seedling: :family:
 <br />
-através da Tecnologia e dos Dados, contribuir para um mundo melhor! :earth_americas: :seedling: :family:
-
 
 - 🔭 Atualmente trabalho com **Power BI** e **SQL**
 - 🌱 Estou estudando **Python** (*Pandas*, *Numpy*, *Matplotlib*, *Scikit-Learn*), **Machine Leaning** (Algoritmos de *Classificação* e *Regressão*), e outras ferramentas de **Ciência de Dados**
@@ -27,13 +25,11 @@ através da Tecnologia e dos Dados, contribuir para um mundo melhor! :earth_amer
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  This is Ana's Github!
 <br />
-BA in Psychology and, recenlty, IT Management.
+BA in Psychology and, recently, IT Management.
 <br />
-Currently working with IT Process Improvement,
+Currently working as Business Intelligence Analyst
 <br />
-But my dream is to become an influent Data Scientist
-<br />
-and to use data and technology to contribute a better world!
+My dream is to use data and technology to contribute to a better world!
 
 
 - Currently working with **Power BI** and **SQL**;
